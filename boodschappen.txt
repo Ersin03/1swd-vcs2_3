@@ -7,7 +7,3 @@ water
 pindakaas
 pepernoten
 wcpapier
-ijs
-hamburger
-kaas
-augurk
