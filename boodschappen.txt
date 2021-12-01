@@ -1,7 +1,10 @@
+
 chips
 cola
 bier
 water
+melk
+kip
 pindakaas
 pepernoten
 wcpapier
